@@ -15,7 +15,7 @@ examples/         # 🌟 완성된 참고용 데모 프로젝트
 
 ### 1. 환경 확인
 ```bash
-node --version    # v20+ 또는 v22+
+node --version    # v22+
 npm --version     # 10+
 ```
 
